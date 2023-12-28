@@ -1,6 +1,6 @@
 Hi 👋 My name is Khoerul Rizal
 ==============================
-Full Stack Web Developer
+Front End Developer
 ------------------------
 I'm a new graduate who loves to learn everything about technology
 * 🌍  I'm based in Banyumas, Jawa Tengah, Indonesia
