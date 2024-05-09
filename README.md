@@ -14,7 +14,12 @@ const rizal = {
    code: [ Javascript, Typescript, HTML, CSS ],
    framework: [ React, React Native, Next.js, TailwindCSS ],
    stateManagement: [ Redux, Zustand, Jotai, Context, MobX, Recoil ],
-   tools: [ Visual Studio Code, Firebase, Github ],
+   tools: {
+      textEditor: [ Visual Studio Code, Android Studio, Xcode ],
+      browser: [ Arc, Firefox, Chrome ],
+      services: [ Firebase, Play Console, App Store Connect, GCP ],
+      others: [ Github, Postman, iTerm ]
+   },
    platform: [ Android, iOS, Web ],
    interest: {
       programming: [ Mobile Development, Web Development ],
@@ -23,5 +28,13 @@ const rizal = {
    },
 };
 ```
+
+<details>
+  <summary>𝖬𝗒 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌</summary><br/>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</details>
+<br/>
 
 <em>Thank you for visit</em> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdvNm1qZWtjaGw0ZjdwM3Z3NnY2dHlueTVuODBta2FiY20wM2YybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tV25tpdKqdFa9x81k2/giphy.gif" width="40">
