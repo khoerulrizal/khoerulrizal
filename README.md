@@ -1,24 +1,28 @@
-Hi 👋 My name is Khoerul Rizal
-==============================
-Front End Developer
-------------------------
-I'm a new graduate who loves to learn everything about technology
-* 🌍  I'm based in Banyumas, Jawa Tengah, Indonesia
-* ✉️  You can contact me at [rzl.trimelty@gmail.com](mailto:rzl.trimelty@gmail.com)
+<h1> 𝐇𝐢, 𝕀'𝕞 𝕂𝕙𝕠𝕖𝕣𝕦𝕝 ℝ𝕚𝕫𝕒𝕝 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI2ajR2NGJubzBsZHFuaHMwajRrcDNsNXJwOG8yb3F0NjhkNXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05eTY5OWR3eGFpdGptZjc1MTVnZ3B6am1qMzUzYTM2cTM5azh5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="24">
+<strong style="font-size:20px;">𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong>
+</p></em>
 
-### Skills
+[![Twitter: KhoerulRzl](https://img.shields.io/twitter/follow/KhoerulRzl?style=social)](https://twitter.com/KhoerulRzl)
+[![LinkedIn: khoerul-rizal](https://img.shields.io/badge/khoerul--rizal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoerul-rizal/)](https://www.linkedin.com/in/khoerul-rizal/)
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-### Socials
-<p align="left"> <a href="https://www.facebook.com/rizal.trimelty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/rizalthewebdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rzl_trimelry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/khoerul-rizal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RzlTrimelry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+```typescript
+const rizal = {
+   pronouns: "he" | "him",
+   code: [ Javascript, Typescript, HTML, CSS ],
+   framework: [ React, React Native, Next.js, TailwindCSS ],
+   stateManagement: [ Redux, Zustand, Jotai, Context, MobX, Recoil ],
+   tools: [ Visual Studio Code, Firebase, Github ],
+   platform: [ Android, iOS, Web ],
+   interest: {
+      programming: [ Mobile Development, Web Development ],
+      movies: [ Action, Adventure, Sci-Fi, Anime, Romance, Drama ],
+      game: [ Adventure, FPS, Racing ]
+   },
+};
+```
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rizalthewebdev"><img src="https://github-readme-stats.vercel.app/api?username=rizalthewebdev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rizalthewebdev's GitHub stats" /></a>
-
-<a href="http://www.github.com/rizalthewebdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rizalthewebdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/rizalthewebdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizalthewebdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<em>Thank you for visit</em> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdvNm1qZWtjaGw0ZjdwM3Z3NnY2dHlueTVuODBta2FiY20wM2YybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tV25tpdKqdFa9x81k2/giphy.gif" width="40">
