@@ -1,6 +1,5 @@
 <h1> 𝐇𝐢, 𝕀'𝕞 𝕂𝕙𝕠𝕖𝕣𝕦𝕝 ℝ𝕚𝕫𝕒𝕝 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI2ajR2NGJubzBsZHFuaHMwajRrcDNsNXJwOG8yb3F0NjhkNXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkZukR450RQ1qnGaq9/giphy.gif" width="200">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW05eTY5OWR3eGFpdGptZjc1MTVnZ3B6am1qMzUzYTM2cTM5azh5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="24">
 <strong style="font-size:20px;">𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong>
 </p></em>
 
