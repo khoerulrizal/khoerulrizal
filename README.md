@@ -31,6 +31,7 @@ const rizal = {
 
 <details>
   <summary>𝖬𝗒 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌</summary><br/>
+   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2016%20mins-blue)
 
