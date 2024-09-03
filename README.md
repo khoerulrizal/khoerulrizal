@@ -12,7 +12,7 @@
 const rizal = {
    pronouns: "he" | "him",
    code: [ Javascript, Typescript, HTML, CSS ],
-   framework: [ React, React Native, Next.js, TailwindCSS ],
+   framework: [ React, React Native, Next, TailwindCSS ],
    stateManagement: [ Redux, Zustand, Jotai, Context, MobX, Recoil ],
    tools: {
       textEditor: [ Visual Studio Code, Android Studio, Xcode ],
