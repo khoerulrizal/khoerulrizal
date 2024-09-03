@@ -3,7 +3,6 @@
 <strong style="font-size:20px;">𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong>
 </p></em>
 
-[![Twitter: KhoerulRzl](https://img.shields.io/twitter/follow/KhoerulRzl?style=social)](https://twitter.com/KhoerulRzl)
 [![LinkedIn: khoerul-rizal](https://img.shields.io/badge/khoerul--rizal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khoerul-rizal/)](https://www.linkedin.com/in/khoerul-rizal/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
