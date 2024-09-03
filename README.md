@@ -29,13 +29,8 @@ const rizal = {
 };
 ```
 
-<details>
-  <summary>𝖬𝗒 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌</summary><br/>
-   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2021%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,6 +44,10 @@ const rizal = {
  > 
 > 🔑 8 Private Repositories 
  > 
+
+<details>
+  <summary>𝖬𝗒 𝖲𝗍𝖺𝗍𝗂𝗌𝗍𝗂𝖼𝗌</summary><br/>
+
 **I'm an Early 🐤** 
 
 ```text
