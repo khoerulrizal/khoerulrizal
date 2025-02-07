@@ -17,7 +17,7 @@ const rizal = {
       textEditor: [ Visual Studio Code, Android Studio, Xcode ],
       browser: [ Arc, Firefox, Chrome ],
       services: [ Firebase, Play Console, App Store Connect, GCP ],
-      others: [ Github, Postman, iTerm ]
+      others: [ Github, Postman, Alacritty ]
    },
    platform: [ Android, iOS, Web ],
    interest: {
