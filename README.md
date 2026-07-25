@@ -29,13 +29,15 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C335%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,614 Contributions in the Year 2026
+> 🏆 1,620 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,21 +48,21 @@ const rizal = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                91492 commits       █████████░░░░░░░░░░░░░░░░   36.60 % 
-🌆 Daytime                113410 commits      ███████████░░░░░░░░░░░░░░   45.37 % 
-🌃 Evening                43628 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-🌙 Night                  1415 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+🌞 Morning                92200 commits       █████████░░░░░░░░░░░░░░░░   36.66 % 
+🌆 Daytime                114101 commits      ███████████░░░░░░░░░░░░░░   45.36 % 
+🌃 Evening                43789 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌙 Night                  1439 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   47812 commits       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Tuesday                  54515 commits       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Wednesday                42721 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Thursday                 43843 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Friday                   44298 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Saturday                 6493 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Sunday                   10263 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Monday                   48021 commits       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Tuesday                  54839 commits       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Wednesday                42990 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Thursday                 44251 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Friday                   44606 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Saturday                 6509 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Sunday                   10313 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 
@@ -70,21 +72,21 @@ Sunday                   10263 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               18 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
-Other                    11 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Go                       6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-PHP                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+TypeScript               17 hrs 45 mins      ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Other                    12 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Go                       8 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+JavaScript               4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+JSON                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Arc                      19 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
-Claude Code              12 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-VS Code                  10 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Slack                    8 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Terminal                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Arc                      24 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.46 % 
+Claude Code              12 hrs 2 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Slack                    9 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+VS Code                  8 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Mac                      50 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      55 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,7 +106,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khoerulrizal/khoerulrizal/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:30:55 UTC
+ Last Updated on 25/07/2026 02:35:32 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
