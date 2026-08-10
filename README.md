@@ -29,17 +29,17 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C620%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C620%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-390%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-391%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.8 kB Used in GitHub's Storage 
+> 📦 195.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,733 Contributions in the Year 2026
+> 🏆 1,734 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,21 +50,21 @@ const rizal = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                68780 commits       █████████░░░░░░░░░░░░░░░░   36.82 % 
-🌆 Daytime                82926 commits       ███████████░░░░░░░░░░░░░░   44.39 % 
-🌃 Evening                33789 commits       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌞 Morning                68857 commits       █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌆 Daytime                83006 commits       ███████████░░░░░░░░░░░░░░   44.39 % 
+🌃 Evening                33815 commits       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 🌙 Night                  1303 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   33364 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Tuesday                  39216 commits       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Wednesday                31756 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 35695 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   33426 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Saturday                 5054 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Sunday                   8287 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Monday                   33388 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Tuesday                  39268 commits       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Wednesday                31790 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Thursday                 35723 commits       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Friday                   33462 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 5060 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Sunday                   8290 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 ```
 
 
@@ -74,47 +74,47 @@ Sunday                   8287 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    17 hrs 39 mins      ███████████░░░░░░░░░░░░░░   44.53 % 
-TypeScript               11 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-Bash                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Go                       1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Other                    16 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.83 % 
+TypeScript               8 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+JavaScript               3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Go                       1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-Slack                    16 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
-Claude Code              8 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-VS Code                  8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Arc                      5 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Postman                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Slack                    15 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.90 % 
+VS Code                  9 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Claude Code              8 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Postman                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Figma                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      39 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 45 mins (49.83%)
+⏱ AI Coding Time: 20 hrs 22 mins (60.09%)
 
-✍️ 4,346 lines written by AI, 203 lines written by hand (95.54% AI-written)
+✍️ 4,622 lines written by AI, 203 lines written by hand (95.79% AI-written)
 
-🔤 287,916,874 Input Tokens, 1,428,685 Output Tokens
+🔤 287,986,108 Input Tokens, 1,435,512 Output Tokens
 
-💵 $1405.02 Estimated AI Cost This Week
+💵 $1405.73 Estimated AI Cost This Week
 
-🧠 389 AI Sessions, 1567 AI Prompts
+🧠 391 AI Sessions, 1577 AI Prompts
 
-Opus                     4,482 lines         ██████████████████████░░░   87.52 % 
-Free                     639 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Opus                     4,482 lines         █████████████████████░░░░   82.31 % 
+Free                     963 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.54% of written lines came from AI
-📚 Verbose Prompter — average 6,140 characters per prompt
+🤖 AI-Driven — 95.79% of written lines came from AI
+📚 Verbose Prompter — average 6,102 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.24% of changed lines were hand-edited
+🚀 High AI Trust — 5.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +134,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khoerulrizal/khoerulrizal/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 01:33:14 UTC
+ Last Updated on 10/08/2026 01:30:38 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
