@@ -29,7 +29,7 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C700%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C700%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-521%20hrs%2023%20mins-blue?style=flat)
 
@@ -37,9 +37,9 @@ const rizal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 213.9 kB Used in GitHub's Storage 
+> 📦 214.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,120 Contributions in the Year 2026
+> 🏆 2,121 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,21 +50,21 @@ const rizal = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                107901 commits      ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌆 Daytime                125600 commits      ███████████░░░░░░░░░░░░░░   44.35 % 
-🌃 Evening                47229 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+🌞 Morning                108058 commits      ██████████░░░░░░░░░░░░░░░   38.11 % 
+🌆 Daytime                125720 commits      ███████████░░░░░░░░░░░░░░   44.34 % 
+🌃 Evening                47266 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 🌙 Night                  2486 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   49703 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Tuesday                  60639 commits       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Wednesday                48874 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Thursday                 55143 commits       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Friday                   50699 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Saturday                 6930 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Sunday                   11228 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Monday                   49765 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Tuesday                  60717 commits       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Wednesday                48932 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 55198 commits       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Friday                   50753 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 6934 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Sunday                   11231 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -74,35 +74,35 @@ Sunday                   11228 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    34 hrs 38 mins      ███████████████░░░░░░░░░░   58.62 % 
-TypeScript               13 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-JavaScript               4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Bash                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Other                    27 hrs 22 mins      █████████████░░░░░░░░░░░░   52.70 % 
+TypeScript               13 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+JavaScript               4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Bash                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-Arc                      29 hrs 36 mins      █████████████░░░░░░░░░░░░   50.09 % 
-Claude Code              14 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Slack                    11 hrs 15 mins      █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-VS Code                  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Figma                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Arc                      23 hrs 9 mins       ███████████░░░░░░░░░░░░░░   44.57 % 
+Claude Code              14 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Slack                    10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+VS Code                  3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Figma                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Mac                      59 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      51 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 39 mins (46.8%)
+⏱ AI Coding Time: 27 hrs 15 mins (52.45%)
 
-✍️ 5,034 lines written by AI, 35 lines written by hand (99.31% AI-written)
+✍️ 5,034 lines written by AI, 26 lines written by hand (99.49% AI-written)
 
-🔤 13,405,958 Input Tokens, 2,898,581 Output Tokens
+🔤 13,296,060 Input Tokens, 2,876,650 Output Tokens
 
-💵 $413.36 Estimated AI Cost This Week
+💵 $411.28 Estimated AI Cost This Week
 
-🧠 1140 AI Sessions, 3640 AI Prompts
+🧠 1124 AI Sessions, 3592 AI Prompts
 
 Opus                     5,069 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -110,10 +110,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📚 Verbose Prompter — average 6,341 characters per prompt
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 6,380 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.86% of changed lines were hand-edited
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khoerulrizal/khoerulrizal/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 03:13:23 UTC
+ Last Updated on 13/09/2026 03:06:38 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
