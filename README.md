@@ -37,9 +37,9 @@ const rizal = {
 
 **🐱 My GitHub Data** 
 
-> 📦 215.7 kB Used in GitHub's Storage 
+> 📦 215.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,282 Contributions in the Year 2026
+> 🏆 2,283 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -50,7 +50,7 @@ const rizal = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                138372 commits      ██████████░░░░░░░░░░░░░░░   38.75 % 
+🌞 Morning                138378 commits      ██████████░░░░░░░░░░░░░░░   38.76 % 
 🌆 Daytime                157695 commits      ███████████░░░░░░░░░░░░░░   44.17 % 
 🌃 Evening                57658 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 🌙 Night                  3324 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
@@ -58,12 +58,12 @@ const rizal = {
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   61977 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Monday                   61979 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
 Tuesday                  77011 commits       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Wednesday                61555 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Wednesday                61557 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 Thursday                 70279 commits       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Friday                   64489 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Saturday                 8374 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Friday                   64490 commits       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Saturday                 8375 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 Sunday                   13364 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
@@ -74,40 +74,21 @@ Sunday                   13364 commits       █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    26 mins             ███████████████████░░░░░░   75.81 % 
-JavaScript               7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    2 mins              ████████████████░░░░░░░░░   65.59 % 
+JSON                     1 min               █████████░░░░░░░░░░░░░░░░   34.41 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ████████████████░░░░░░░░░   64.90 % 
-Slack                    12 mins             █████████░░░░░░░░░░░░░░░░   35.10 % 
+Slack                    2 mins              ████████████████░░░░░░░░░   65.59 % 
+VS Code                  1 min               █████████░░░░░░░░░░░░░░░░   34.41 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (34.23%)
-
-✍️ 12 lines written by AI, 1 lines written by hand (92.31% AI-written)
-
-🔤 3,423,511 Input Tokens, 17,130 Output Tokens
-
-💵 $10.53 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Spark                    12 lines            █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 92.31% of written lines came from AI
-📄 Detailed Prompter — average 885 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.29% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +108,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khoerulrizal/khoerulrizal/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 04:32:04 UTC
+ Last Updated on 11/10/2026 03:59:01 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
