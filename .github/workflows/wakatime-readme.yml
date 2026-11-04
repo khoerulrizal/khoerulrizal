@@ -8,6 +8,7 @@ jobs:
    update-readme:
       name: Update Readme with Metrics
       runs-on: ubuntu-latest
+      timeout-minutes: 15
       steps:
          - uses: anmol098/waka-readme-stats@master
            with:
@@ -15,3 +16,7 @@ jobs:
               GH_TOKEN: ${{ secrets.GH_TOKEN }}
               SHOW_PROJECTS: "False"
               COMMIT_BY_ME: "True"
+              # These 3 crawl every commit on every branch of every repo (~1.5h/run). Off = ~1 min.
+              SHOW_COMMIT: "False"
+              SHOW_DAYS_OF_WEEK: "False"
+              SHOW_LOC_CHART: "False"
