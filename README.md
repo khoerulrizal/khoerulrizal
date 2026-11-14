@@ -29,9 +29,9 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C863%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C864%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-726%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-730%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
@@ -39,7 +39,7 @@ const rizal = {
 
 > 📦 218.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,337 Contributions in the Year 2026
+> 🏆 3,348 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,46 +53,46 @@ const rizal = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    29 hrs 10 mins      ██████████████████░░░░░░░   72.49 % 
-Bash                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Markdown                 3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-TypeScript               1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Diff                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Other                    29 hrs 32 mins      ████████████████████░░░░░   80.82 % 
+Bash                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Diff                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 37 mins      ████████████████████░░░░░   81.07 % 
-Arc                      3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Slack                    2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Muxy                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Dia                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Claude Code              29 hrs 53 mins      ████████████████████░░░░░   81.78 % 
+Dia                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Arc                      2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Muxy                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Slack                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      40 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 53 mins (84.21%)
+⏱ AI Coding Time: 31 hrs 9 mins (85.22%)
 
-✍️ 13,768 lines written by AI, 2 lines written by hand (99.99% AI-written)
+✍️ 4,433 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 29,587,142 Input Tokens, 4,113,033 Output Tokens
+🔤 23,002,319 Input Tokens, 2,927,231 Output Tokens
 
-💵 $368.07 Estimated AI Cost This Week
+💵 $337.58 Estimated AI Cost This Week
 
-🧠 3433 AI Sessions, 9054 AI Prompts
+🧠 3850 AI Sessions, 9585 AI Prompts
 
-Opus                     7,543 lines         █████████████░░░░░░░░░░░░   53.33 % 
-Sonnet                   6,601 lines         ████████████░░░░░░░░░░░░░   46.67 % 
+Opus                     4,705 lines         █████████████████████████   98.53 % 
+Sonnet                   70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 6,561 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 5,780 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +108,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2026 04:00:13 UTC
+ Last Updated on 14/11/2026 03:58:42 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
