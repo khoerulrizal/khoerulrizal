@@ -29,9 +29,9 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C865%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C866%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-730%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-735%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
@@ -39,7 +39,7 @@ const rizal = {
 
 > 📦 218.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,366 Contributions in the Year 2026
+> 🏆 3,395 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,44 +53,44 @@ const rizal = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    32 hrs 37 mins      ██████████████████████░░░   86.03 % 
-Markdown                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Diff                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Bash                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Other                    32 hrs 35 mins      █████████████████████░░░░   84.61 % 
+Markdown                 2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Diff                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 43 mins      ████████████████████░░░░░   78.39 % 
-Dia                      5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Muxy                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Arc                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Slack                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Claude Code              26 hrs 50 mins      █████████████████░░░░░░░░   69.68 % 
+Dia                      8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Muxy                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Antigravity CLI          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      37 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 56 mins (81.59%)
+⏱ AI Coding Time: 28 hrs 57 mins (75.18%)
 
-✍️ 4,433 lines written by AI, 2 lines written by hand (99.95% AI-written)
+✍️ 4,539 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 22,922,943 Input Tokens, 2,896,730 Output Tokens
+🔤 23,150,640 Input Tokens, 3,018,738 Output Tokens
 
-💵 $336.31 Estimated AI Cost This Week
+💵 $379.47 Estimated AI Cost This Week
 
-🧠 3841 AI Sessions, 9550 AI Prompts
+🧠 3699 AI Sessions, 9186 AI Prompts
 
-Opus                     4,705 lines         █████████████████████████   98.53 % 
-Sonnet                   70 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Opus                     5,348 lines         █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 5,787 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 5,670 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
@@ -108,7 +108,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 03:43:42 UTC
+ Last Updated on 17/11/2026 05:39:32 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
