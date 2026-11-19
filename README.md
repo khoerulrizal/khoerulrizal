@@ -29,9 +29,9 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C869%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C871%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-741%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-745%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue?style=flat)
 
@@ -39,7 +39,7 @@ const rizal = {
 
 > 📦 218.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3,409 Contributions in the Year 2026
+> 🏆 3,451 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,46 +53,47 @@ const rizal = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    31 hrs 2 mins       ████████████████████░░░░░   78.72 % 
-Markdown                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JavaScript               2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Diff                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-TypeScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    32 hrs 18 mins      ████████████████████░░░░░   78.43 % 
+JavaScript               2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Markdown                 2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Diff                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 19 mins      ██████████████░░░░░░░░░░░   54.05 % 
-Dia                      11 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Muxy                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Antigravity CLI          1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Claude Code              16 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.04 % 
+Dia                      15 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.75 % 
+Muxy                     5 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Antigravity CLI          1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+VS Code                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-Mac                      39 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 22 mins (69.41%)
+⏱ AI Coding Time: 24 hrs 58 mins (60.65%)
 
-✍️ 4,101 lines written by AI, 49 lines written by hand (98.82% AI-written)
+✍️ 3,904 lines written by AI, 52 lines written by hand (98.69% AI-written)
 
-🔤 20,967,238 Input Tokens, 2,687,316 Output Tokens
+🔤 19,979,795 Input Tokens, 2,461,597 Output Tokens
 
-💵 $337.86 Estimated AI Cost This Week
+💵 $342.34 Estimated AI Cost This Week
 
-🧠 3179 AI Sessions, 7800 AI Prompts
+🧠 2720 AI Sessions, 6678 AI Prompts
 
-Opus                     5,080 lines         █████████████████████████   100.00 % 
+Opus                     4,631 lines         ████████████████████████░   94.76 % 
+DeepSeek                 256 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.82% of written lines came from AI
-📚 Verbose Prompter — average 5,534 characters per prompt
+🤖 AI-Driven — 98.69% of written lines came from AI
+📚 Verbose Prompter — average 5,383 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 9.82% of changed lines were hand-edited
+🚀 High AI Trust — 10.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,7 +109,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 05:02:50 UTC
+ Last Updated on 19/11/2026 04:57:32 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
