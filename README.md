@@ -29,9 +29,9 @@ const rizal = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C876%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C878%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-761%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-765%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -39,7 +39,7 @@ const rizal = {
 
 > 📦 218.8 kB Used in GitHub's Storage 
  > 
-> 🏆 3,569 Contributions in the Year 2026
+> 🏆 3,607 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,47 +53,47 @@ const rizal = {
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    37 hrs 29 mins      ███████████████████░░░░░░   76.15 % 
-JavaScript               3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Markdown                 1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-TypeScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Other                    37 hrs 32 mins      ███████████████████░░░░░░   75.03 % 
+JavaScript               4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+TypeScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Swift                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Dia                      20 hrs 54 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
-Claude Code              14 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Muxy                     7 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Antigravity CLI          3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-ZCode                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Dia                      21 hrs 59 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
+Claude Code              13 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Muxy                     7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Antigravity CLI          3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+ZCode                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 💻 Operating System: 
-Mac                      49 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      50 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 16 mins (61.51%)
+⏱ AI Coding Time: 30 hrs 3 mins (60.09%)
 
-✍️ 6,238 lines written by AI, 50 lines written by hand (99.2% AI-written)
+✍️ 7,147 lines written by AI, 50 lines written by hand (99.31% AI-written)
 
-🔤 19,759,421 Input Tokens, 2,455,620 Output Tokens
+🔤 19,965,043 Input Tokens, 2,592,420 Output Tokens
 
-💵 $322.96 Estimated AI Cost This Week
+💵 $327.05 Estimated AI Cost This Week
 
-🧠 2295 AI Sessions, 5879 AI Prompts
+🧠 2238 AI Sessions, 5605 AI Prompts
 
-Opus                     5,747 lines         ████████████████████░░░░░   79.99 % 
-GLM                      1,182 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-DeepSeek                 256 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Opus                     6,030 lines         ████████████████████░░░░░   79.07 % 
+GLM                      1,340 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+DeepSeek                 256 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.2% of written lines came from AI
-📚 Verbose Prompter — average 4,943 characters per prompt
+🤖 AI-Driven — 99.31% of written lines came from AI
+📚 Verbose Prompter — average 4,918 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.15% of changed lines were hand-edited
+🚀 High AI Trust — 6.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 04:39:38 UTC
+ Last Updated on 24/11/2026 07:31:10 UTC
 <!--END_SECTION:waka-->
 </details>
 <br/>
